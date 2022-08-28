@@ -6,6 +6,7 @@
 
 <!-- I <head> har man opsætning - det ser brugeren ikke, men det fortæller noget om siden -->
 <head>
+    <link rel="shortcut icon" href="images/faviconhc.png" type="image/x-icon">
     <!-- Sætter tegnsætning til utf-8 som bl.a. tillader danske bogstaver -->
     <meta charset="utf-8">
 
@@ -28,14 +29,35 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
+
+
 <?php include "includes/header.php" ?>
 
 <?php include "includes/face.php" ?>
 
-<div class="container-fluid text-center text-light">
+<div class="container-fluid ">
     <div class="row row-cols-1 row-cols-sm-2">
         <div class="col bg-yp1 p-5 mb-5 text-pup">
             <h1>Kompetancer/ERfaringerer</h1>
+
+            <div class="row">
+                <div class="col">
+                    <h6>Kodning:</h6>
+                    <li>HTML</li>
+                    <li>CSS Bootstrap</li>
+                    <li>Phython</li>
+                    <li>Matlab</li>
+
+                </div>
+                <div class="col"><h6>Adobe Programmer:</h6>
+                    <li>Illustrator</li>
+                    <li>Photoshop</li>
+                    <li>XD</li>
+                </div>
+                <div class="w-100"></div>
+            </div>
+
+
 
         </div>
         <div class="col bg-yp2 p-5 mb-5 text-myYellow"><h1>Arbejde</h1>
@@ -43,13 +65,21 @@
         </div>
         <div class="col bg-yp3 p-5 mb-5 text-myYellow"><h1>Om mig</h1>
             <div class="row">
-                <div class="col"><img src="images/arbejdepic.png">
+                <div class="col"><img src="images/jegermigigul.png">
                 </div>
                 <div class="col">Totalt uddybende tekst omkring mig, der fortæller alle mine hemligheder</div>
                 <div class="w-100"></div>
             </div>
         </div>
-        <div class="col bg-yp4 p-5 mb-5 text-myYellow"><h1>Karriere/CV</h1></div>
+        <div class="col bg-yp4 p-5 mb-5 text-myYellow"><h1>Karriere/CV</h1>
+            <h6>
+                <li>Multimediedesigner, Zealand Erhvervsakademi- 2021-Nu </li>
+                <li>Tekniske designer grundforløb, RTS - 2021-2021</li>
+                <li>Nanoscience, Københavns universitet - 2014-2019 (Uafsluttet)</li>
+                <li>HF, Storstroem VUC - 2000-2002</li>
+
+            </h6>
+        </div>
         <div class="col bg-yp5 p-5 mb-5 text-myYellow"><h1>Kontakt</h1></div>
         <div class="col bg-pup p-5 mb-5 text-myYellow"><h1>causel?</h1></div>
     </div>
