@@ -21,7 +21,6 @@
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <link href="../css/costum.css" rel="stylesheet">
 
 
     <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->

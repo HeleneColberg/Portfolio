@@ -1,4 +1,5 @@
-<div class="col bg-yp4 p-5 mb-5 text-myYellow"><h1>Karriere/CV</h1>
+<div class="col bg-yp4 p-5 mb-5 text-myYellow">
+    <h1 class="p-4">Karriere/CV</h1>
     <h6>
         <li>Multimediedesigner, Zealand Erhvervsakademi- 2021-Nu </li>
         <li>Tekniske designer grundforløb, RTS - 2021-2021</li>
