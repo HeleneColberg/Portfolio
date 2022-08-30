@@ -1,7 +1,21 @@
 
 <div class="container text-center">
     <div class="row">
-        <div class="col-9"><a class="navbar-brand col" href="#"><img src="images/newhairdontcarepup.png"> </a></div>
-        <div class="col-3"><div class="col small"><img src="images/kaosknap.png"> </div></div>
+
+        <div class="col-9">
+            <a class="navbar-brand col" href="index.php">
+                <img src="images/newhairdontcarepup.png">
+            </a>
+        </div>
+
+
+
+
+        <div class="col-3">
+            <a class="navbar-brand col" href="#">
+                <img src="images/kaosknap.png">
+            <a/>
+        </div>
+
     </div>
 </div>
