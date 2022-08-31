@@ -16,7 +16,7 @@
             </a>
         </div>
         <div class="col bg-yp3 p-5 mb-5 text-myYellow"><h1 class="p-4">Chokolate Club</h1>
-            <a href="#" >
+            <a href="gillelejeisen.php" >
                 <img class="p-5"src="images/arbejdepic.png">
             </a>
         </div>
