@@ -19,7 +19,7 @@
                     <a class="nav-link text-myYellow" href="#">Om mig</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-myYellow" href="#">Kontakt</a>
+                    <a class="nav-link text-myYellow" href="kontakt.php">Kontakt</a>
                 </li>
             </ul>
         </div>
