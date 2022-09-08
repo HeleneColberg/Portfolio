@@ -1,3 +1,8 @@
+:root {
+	--bs-navbar-toggler-border-color: red !important;
+}
+
+
 * {
 	box-sizing: border-box;
 }
@@ -5,6 +10,17 @@
 body {
 	margin: 0;
 	background-color: #212529FF;
+	transition: ease-in-out 0.3s all;
+	-webkit-transition: ease-in-out 0.3s all;
+	-moz-transition: ease-in-out 0.3s all;
+	-ms-transition: ease-in-out 0.3s all;
+	-o-transition: ease-in-out 0.3s all;
+	&.chaos{
+		background-color: #fff;
+		.text-myYellow, .text-pup, .myYellow {
+			background: linear-gradient(75deg, #524710 0%, #10bdb4 50%, black 75%, #F9D423 100%);
+		}
+	}
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -36,14 +52,5 @@ a {
 	text-decoration: none;
 }
 
-* { bs-navbar-color:#E8E880FF !important; }
-* { bs-navbar-toggler-border-color:#E8E880FF !important; }
-
-.navbar-toggler-icon {
-	background-color: #E8E880FF !important;
-
-}
-
-.navbar .container-fluid .navbar-toggler .navbar-toggler-icon{
-	background-color: #E8E880FF !important;
-}
+* { --bs-navbar-color:#E8E880FF !important; }
+* { --bs-navbar-toggler-border-color:#E8E880FF !important; }
