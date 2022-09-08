@@ -38,3 +38,12 @@ a {
 
 * { bs-navbar-color:#E8E880FF !important; }
 * { bs-navbar-toggler-border-color:#E8E880FF !important; }
+
+.navbar-toggler-icon {
+	background-color: #E8E880FF !important;
+
+}
+
+.navbar .container-fluid .navbar-toggler .navbar-toggler-icon{
+	background-color: #E8E880FF !important;
+}
