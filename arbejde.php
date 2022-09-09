@@ -21,11 +21,11 @@
 <div class="container-fluid ">
     <div class="row row-cols-1 row-cols-sm-2">
 
-
+        <a href="gil.php">
         <div class="col bg-yp2 p-5 mb-5 text-myYellow">
             <h1 class="p-4">Gilleleje isen</h1>
                 <img class="p-5" src="images/glios.png">
-        </div>
+        </div></a>
 
 
         <div class="col bg-yp3 p-5 mb-5 text-myYellow"><h1 class="p-4">Chokolate Club</h1>
