@@ -1,10 +1,10 @@
 <div class="container-fluid text-center bg-dark text-light text-myYellow">
-    <div class="row row-cols-md-3">
+    <div class="row row-cols-md-3 ">
         <a href="#">
-            <div class="col text-myYellow text-center">KAT</div>
+            <div class="col text-myYellow text-center"><i class="fa-brands fa-github"></i></div>
         </a>
         <a href="#">
-            <div class="col text-myYellow text-center">in</div>
+            <div class="col text-myYellow text-center"><i class="fa-brands fa-linkedin"></i></div>
         </a>
         <a href="#">
             <div class="col text-myYellow text-center"><i class="fa-brands fa-instagram"></i></div>
