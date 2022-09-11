@@ -34,7 +34,7 @@
 
 
 
-<div class="container-fluid text-center bg-dark text-light text-myYellow">
+<div class="container-fluid text-center bg-dark mt-5 mb-3 text-light text-myYellow">
     <div class="row row-cols-md-3 ">
         <a href="#">
             <div class="col text-myYellow text-center"><i class="fa-brands fa-github"></i></div>
