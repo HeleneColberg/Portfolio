@@ -28,7 +28,7 @@
             <a href="arbejde.php">
                 <h1 class="p-4 link-myYellow">Chokolate Club</h1>
 
-                <img src="images/arbejdepic.png">
+                <img src="images/coc.png">
             </a>
         </div>
 
@@ -37,7 +37,7 @@
             <a href="arbejde.php">
                 <h1 class="p-4 link-myYellow">Studieby Slagelse</h1>
 
-                <img src="images/arbejdepic.png">
+                <img src="images/sbs.png">
             </a>
         </div>
 
@@ -46,7 +46,7 @@
             <a href="arbejde.php">
                 <h1 class="p-4 link-myYellow">Personlige projekter</h1>
 
-                <img src="images/arbejdepic.png">
+                <img src="images/pp.png">
             </a>
         </div>
 
@@ -55,7 +55,7 @@
             <a href="arbejde.php">
                 <h1 class="p-4 link-myYellow">Jobs</h1>
 
-                <img src="images/arbejdepic.png">
+                <img src="images/jobs.png">
             </a>
         </div>
 
