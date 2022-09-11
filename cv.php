@@ -16,7 +16,7 @@
     <div class="row row-cols-1 row-cols-sm-2">
         <!-- Gilleleje isen-->
         <div class="col bg-yp1 p-5 mb-5 text-pup">
-            <h1 class=" p-4">It kompetancer</h1>
+            <h1 class=" p-4">It kompetencer</h1>
             <div class="row">
                 <div class="col">
                     <li>Adobe Illustrator</li>
@@ -42,7 +42,7 @@
                 </div>
                 <div class="w-100"></div>
             </div>
-            <h1 class=" p-4">Personlige kompetancer</h1>
+            <h1 class=" p-4">Personlige kompetencer</h1>
             <div class="row">
                 <div class="col">
                     <li>Kreativ</li>
@@ -70,29 +70,47 @@
         </div>
         <!-- Chokolate Club-->
         <div class="col bg-yp2 p-5 mb-5 text-myYellow">
-            <a href="arbejde.php">
-                <h1 class="p-4 link-myYellow">Chokolate Club</h1>
+            <h1 class=" p-4">Uddannelser</h1>
+            <div class="row">
+                <div class="col">
+                    <br><br>
+                    <h4>2021-nu Multimediedesigner(igangværende)</h4> <br><br>
+                    <h4>2021-2021 Teknisk designer grundforløb</h4><br><br>
+                    <h4>2014-2019 Bachelor i Nanoscience(ikke færdiggjort)</h4><br><br>
+                    <h4>2012-2014 GSK</h4><br><br>
+                    <h4>2010-2012 HF</h4>
 
-                <img src="images/coc.png">
-            </a>
+
+                </div>
+                <div class="w-100"></div>
+            </div>
         </div>
 
-        <!-- Studieby Slagelse -->
+        <!-- Erhvervserfaring -->
         <div class="col bg-yp3 p-5 mb-5 text-myYellow">
-            <a href="arbejde.php">
-                <h1 class="p-4 link-myYellow">Studieby Slagelse</h1>
 
-                <img src="images/sbs.png">
-            </a>
+                <h1 class="p-4 link-myYellow">Karriere</h1>
+                <div class="row">
+                    <div class="col">
+                        <br><br>
+                        <h4>2018-2021 Servicemedarbejder, kulturhusene, Høje Taastrup</h4> <br><br>
+                        <h4>2015-2016 Butikssælger, Sahva, København</h4><br><br>
+                    </div>
+                    <div class="w-100"></div>
+                </div>
         </div>
-
         <!-- sprog-->
         <div class="col bg-yp4 p-5 mb-5 text-myYellow">
-            <a href="arbejde.php">
-                <h1 class="p-4 link-myYellow">Personlige projekter og logoer</h1>
-
-                <img src="images/pp.png">
-            </a>
+            <h1 class="p-4 link-myYellow">Sprog</h1>
+            <div class="row">
+                <div class="col">
+                    <br><br>
+                    <h4>Dansk: Modersmål</h4> <br><br>
+                    <h4>Engelsk: Tale og skrift: Flydende</h4><br><br>
+                    <h4>Spansk: Skrift: Øvet, tale: Forstående</h4><br><br>
+                </div>
+                <div class="w-100"></div>
+            </div>
         </div>
 
         <!-- puplicationer -->
