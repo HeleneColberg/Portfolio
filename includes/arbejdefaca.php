@@ -13,7 +13,7 @@
         <div class="col-3">
             <a class="navbar-brand col chaos-btn" href="#">
                 <img src="images/kaosknap.png">
-                <a/>
+            </a>
         </div>
 
     </div>
