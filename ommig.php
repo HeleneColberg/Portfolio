@@ -26,8 +26,9 @@
 
         <div class="col bg-yp3 p-5 mb-5 text-myYellow ">
                     <div class="col">
+                        <h3 class=" p-4">Grundlæggende</h3>
                         Jeg er en kvinde med masser af livsglæde og gåpåmod. Jeg er meget kreativt anlagt og har mange interesser indenfor det kunstneriske, heriblandt tegning, fotografering, kunst og musik. Derudover elsker jeg at socialisere og møde mennesker og opleve alt hvad livet har at byde på.
-                        Jeg er et meget optimistisk menneske, der tilgår alle problemstillinger jeg møder, i stiv arm og med et smil på læben. I et selskab er jeg den sjove der får folk til at grine og smile, men kan også være seriøs hvis det gælder. Jeg har det generelt bedst hvis folk omkring mig er glade og har det godt, hvilket jeg generelt prøver at bidrage til.
+                        Jeg er et meget optimistisk menneske, der tilgår alle problemstillinger jeg møder i stiv arm og med et smil på læben. I et selskab er jeg den sjove der får folk til at grine og smile, men er også seriøs når det er nødvendigt. Jeg har det generelt bedst, hvis folk omkring mig er glade og har det godt, hvilket jeg generelt prøver at bidrage til.
                     </div>
                     <div class="w-100"></div>
         </div>
@@ -42,8 +43,9 @@
 
         <div class="col bg-yp5 p-5 mb-5 text-myYellow ">
             <div class="col">
-                Jeg er en kvinde med masser af livsglæde og gåpåmod. Jeg er meget kreativt anlagt og har mange interesser indenfor det kunstneriske, heriblandt tegning, fotografering, kunst og musik. Derudover elsker jeg at socialisere og møde mennesker og opleve alt hvad livet har at byde på.
-                Jeg er et meget optimistisk menneske, der tilgår alle problemstillinger jeg møder, i stiv arm og med et smil på læben. I et selskab er jeg den sjove der får folk til at grine og smile, men kan også være seriøs hvis det gælder. Jeg har det generelt bedst hvis folk omkring mig er glade og har det godt, hvilket jeg generelt prøver at bidrage til.
+                <h3 class=" p-4">Interesser</h3>
+                Jeg bor i Taastrup med min hund Archer, som jeg bruger meget tid på. Derudover er mine interesser at være kreativ på så mange måder som muligt. jeg tegner både fysisk, i Illustrator og Photoshop, og har også interesse i <em>bullet journaling</em>, hvor jeg tegner min kalender og planlægger mit liv.
+                Jeg elsker alt visuel udfoldelse og har et spejlreflex kamera som jeg bruger hyppigt. Jeg er vild med alt kulturelt, både at besøge museumer, se på arkitektur og høre diverse genre af live-musik.
             </div>
             <div class="w-100"></div>
         </div>
