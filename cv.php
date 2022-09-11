@@ -6,7 +6,7 @@
 <?php include "includes/header.php" ?>
 
 <?php include "includes/face.php" ?>
-
+<?php include "includes/kaosface.php" ?>
 <div class="container-fluid ">
     <div class="row row-cols-1 row-cols-sm-2">
         <?php include "includes/l1kompetancer.php" ?>

@@ -1,31 +1,31 @@
 
 <div class="container-fluid ">
-    <div class="row row-cols-1 row-cols-sm-6">
+    <div class="row row-cols-6 ">
         <!-- Gilleleje isen-->
-        <div class="col bg-yp1 p-5 mb-5 text-pup">
+        <div class="col bg-yp1 ">
 
         </div>
         <!-- Chokolate Club-->
-        <div class="col bg-yp2 p-5 mb-5 text-myYellow">
+        <div class="col bg-yp2">
 
         </div>
 
         <!-- Studieby Slagelse -->
-        <div class="col bg-yp3 p-5 mb-5 text-myYellow">
+        <div class="col bg-yp3 ">
 
         </div>
 
         <!-- logo design og personlige projekter-->
-        <div class="col bg-yp4 p-5 mb-5 text-myYellow">
+        <div class="col bg-yp4 ">
 
         </div>
 
         <!-- Jobs -->
-        <div class="col bg-yp5 p-5 mb-5 text-myYellow">
+        <div class="col bg-yp5 ">
 
         </div>
 
-        <div class="col bg-pup p-5 mb-5 text-myYellow">
+        <div class="col bg-pup p-1 p-md-3">
 
         </div>
 
@@ -52,9 +52,15 @@
 
 <script>
     (function() {
+        var face =document.querySelector('.face');
+             var kaossel =document.querySelector('.kaossel');
+
         var chaosBtn = document.querySelector('.chaos-btn');
         chaosBtn.addEventListener('click', function() {
             document.body.classList.toggle('chaos');
+                face.classList.toggle('hide');
+                kaossel.classList.toggle('hide');
+
         });
     })()
 </script>

@@ -2,7 +2,7 @@
 <body>
 <?php include "includes/header.php" ?>
 <?php include "includes/arbejdefaca.php" ?>
-
+<?php include "includes/kaosface.php" ?>
 
 <div class="container-fluid ">
     <div class="row row-cols-1 row-cols-sm-2">

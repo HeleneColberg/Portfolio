@@ -16,15 +16,22 @@ body {
 	-ms-transition: ease-in-out 0.3s all;
 	-o-transition: ease-in-out 0.3s all;
 	&.chaos{
-		background-color: #1ff500;
+		background-color: #0a0000;
 		.text-myYellow, .text-pup, .myYellow {
 			background: linear-gradient(75deg, #e51c06 0%, #10bdb4 50%, #9014b9 75%, #F9D423 100%);
-			
+
+
 		}
 
 	}
 
 }
+
+.hide{
+	display: none;
+
+}
+
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;

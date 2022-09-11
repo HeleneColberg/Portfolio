@@ -3,11 +3,10 @@
     <div class="row">
 
         <div class="col-9" >
-            <a class="navbar-brand col p-3" href="index.php">
+            <a class="navbar-brand face col p-3" href="index.php">
                 <img src="images/face.png">
             </a>
         </div>
-
 
 
 
