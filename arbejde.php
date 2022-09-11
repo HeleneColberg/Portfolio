@@ -7,12 +7,11 @@
 
 
 
+
 <div class="col bg-yp1 p-5 mb-5 text-pup text-center">
 
     <h1 class="p-sm-1 ">Arbejder</h1>
 </div>
-
-
 <div class="container-fluid ">
     <div class="row row-cols-1 row-cols-sm-2">
         <!-- Gilleleje isen-->
@@ -44,7 +43,7 @@
         <!-- logo design og personlige projekter-->
         <div class="col bg-yp4 p-5 mb-5 text-myYellow">
             <a href="arbejde.php">
-                <h1 class="p-4 link-myYellow">Personlige projekter</h1>
+                <h1 class="p-4 link-myYellow">Personlige projekter og logoer</h1>
 
                 <img src="images/pp.png">
             </a>
